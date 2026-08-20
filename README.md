@@ -9,7 +9,7 @@ Dapo
 This analysis aims to answer the following questions: 1. Which lifestyle
 and demographic factors are most strongly associated with Health Score
 2. Can a linear regression model reliably predict Health Score from
-these factors.
+these factors
 
 ## Methodology
 
