@@ -18,7 +18,7 @@ visualizations of each predictor against Health Score. A multiple linear
 regression model was fit using all available predictors, refined via
 stepwise selection, and evaluated against standard regression
 assumptions(linearity, homoscedasticity, normality, multicollinearity,
-and influential points)
+and influential points).
 
 Introduction
 
